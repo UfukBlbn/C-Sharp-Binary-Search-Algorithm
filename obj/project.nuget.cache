@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m1RLrqZKLAVZH27I2DU7lvPi4QxgZ8ZYXQbGz/NGlZ9Tih2FW1HfItzeK0ArJizUc+Qg6iGVxbacL2fjh9+WPQ==",
+  "dgSpecHash": "BMXjY07XH+7igWZ+ThLgmPYkZ0O11yuck3JdlIe3ppWwMj9Qb5bJoielutDCID/K6DzkOsqendRseI/DJzyDNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\casper\\Desktop\\c#Algorithms\\LinearSearch\\LinearSearch.csproj",
+  "projectFilePath": "C:\\Users\\casper\\Desktop\\c#Algorithms\\BinarySearch\\LinearSearch\\BinarySearch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

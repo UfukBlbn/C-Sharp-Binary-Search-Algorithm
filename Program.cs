@@ -1,41 +1,39 @@
 ﻿using System;
 
-namespace LinearSearch
+namespace BinarySearch
 {
     class Program
     {
         
-        //time complexty is worst case O(n)
-        //because we have to try for all the elements to find the true value
-        static Boolean LinearSearch(int [] arr,int n)
+        static Boolean BinarySearch(int [] inputArray,int item)
         {
-            foreach (var currentItem in arr)
+            //index
+            int min =0;
+            //we arae getting the exact index
+            int max = inputArray.Length-1;
+
+            while (min<=max)
             {
-                if (currentItem==n)
+                int mid = (max+min)/2;
+                if (item==inputArray[mid])
+                {return true;}
+                else if (item<inputArray[mid])
                 {
-                    return true;
+                    max=mid-1;
+                }
+                else{
+
+                    min = mid+1;
                 }
             }
 
             return false;
         }
 
-
         static void Main(string[] args)
         {
-            int [] arr = {12,32,1,3,4,52,12};
-            Console.WriteLine(LinearSearch(arr,4));
-
-
-            //Extra example for linear search 
-            //return only 1 val
-            int value = Array.Find(arr,element=>element==11);
-            Console.WriteLine(value);
-            //return Array
-            int[] items = Array.FindAll(arr,element=>element>=11);
-            Array.ForEach(items,Console.WriteLine);
-            
-           
+            int [ ] inputArray = {1,2,3,4,5,6,7,8,9};
+           Console.WriteLine(BinarySearch(inputArray,3));
         }
     }
 }
