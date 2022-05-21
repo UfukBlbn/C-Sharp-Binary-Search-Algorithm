@@ -1,2 +1,2 @@
-# C-Sharp-LinearSearch
-Basic Linear Search code example for understanding time complexity.
+# C-Sharp-Binary-Search-Algorithm
+Basic Binary Search code example for understanding time complexity.
