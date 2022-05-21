@@ -1,0 +1,16 @@
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.exe
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.deps.json
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.runtimeconfig.json
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.runtimeconfig.dev.json
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.dll
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\ref\24082021_6.dll
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\bin\Debug\net5.0\24082021_6.pdb
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.csprojAssemblyReference.cache
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.AssemblyInfoInputs.cache
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.AssemblyInfo.cs
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.csproj.CoreCompileInputs.cache
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.dll
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\ref\24082021_6.dll
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.pdb
+C:\Users\ufukb\OneDrive - A.S. Watson Europe\Desktop\c#\24082021_6\obj\Debug\net5.0\24082021_6.genruntimeconfig.cache
